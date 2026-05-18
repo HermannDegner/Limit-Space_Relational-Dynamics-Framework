@@ -1,6 +1,6 @@
 # RDL 汎用階層構造モジュール v2.0
 *T2：運用層 / OP / ACTIVE*
-*依存：限界空間 / RDL_Core_v1.0 / SILN_v1.0*
+*依存：限界空間 / RDL_Core / SILN*
 
 ---
 

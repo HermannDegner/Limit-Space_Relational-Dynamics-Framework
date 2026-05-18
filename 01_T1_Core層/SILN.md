@@ -1,6 +1,6 @@
 # SILN v1.0
 *T0〜T1：基底層 / CORE / ACTIVE*
-*依存：限界空間 / RDL_Core_v1.0*
+*依存：限界空間 / RDL_Core*
 
 ---
 

@@ -345,12 +345,12 @@ H を正面に置いた（エントロピー = 未整合蓄積）。
 ### NN借用 v0.1
 
 dM_B/dt・interp()・W_ij・散逸行列 A・κ(M_B) の関数形を埋める。
-詳細は `RDL_計算実装層_NN借用_v0_1.md` を参照。
+詳細は `RDL_計算実装層_NN借用.md` を参照。
 
 ### LangGraph / LangChain 借用 v0.1
 
 State 設計・条件分岐・Memory 更新・マルチエージェント結合・HITL ゲートを埋める。
-詳細は `RDL_応用実装層_LangGraph_LangChain借用_v0_1.md` を参照。
+詳細は `RDL_応用実装層_LangGraph_LangChain借用.md` を参照。
 
 ---
 
